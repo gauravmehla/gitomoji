@@ -1,6 +1,25 @@
 ![Imgur](http://i.imgur.com/TorstVg.jpg)
 
-## Commit Messages
+## Commit Messages 👋
+
+Every commit is important.
+So let's celebrate each and every commit with a corresponding emoji! 😄
+
+Oh, and it can also help with glancing over commit messages to figure out
+what kind of changes have been made. 😏
+
+## Usage
+
+Prepend every commit message with an emoji with this form:
+
+`:emoji: commit message`.
+
+For commits with multiple types of messages, use multiple lines:
+
+```
+:emoji: commit message
+:emoji: commit message2
+```
 
 |  Emoji |  Message | 
 |:-:|---|
@@ -22,6 +41,8 @@
 ---
 
 # Emoji's List
+
+Here is complete list of all emoji's. Just copy and paste the code. :wink:
 
 ## Index
 - [People](#people)
