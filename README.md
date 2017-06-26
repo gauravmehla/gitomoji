@@ -1,7 +1,5 @@
 # gitomoji
 
----
-
 ## Commit Messages
 
 - :art: when improving the format/structure of the code
