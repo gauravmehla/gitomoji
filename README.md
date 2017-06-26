@@ -1,4 +1,4 @@
-# gitomoji
+![Imgur](http://i.imgur.com/TorstVg.jpg)
 
 ## Commit Messages
 
