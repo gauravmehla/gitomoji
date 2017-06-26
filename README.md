@@ -10,15 +10,17 @@ what kind of changes have been made. 😏
 
 ## Usage
 
-Prepend every commit message with an emoji with this form:
+Adding emoji's to commits is very easy. While commiting your changes, just add the emoji code into your commit message. You can add emoji anywhere in your commit but it is a good practise to add it in starting of your commit message which makes difference in your commit messages.
 
-`:emoji: commit message`.
+example :
+
+`:bug: Fixed bug #2.` => `🐛 Fixed bug #2.`
 
 For commits with multiple types of messages, use multiple lines:
 
 ```
 :emoji: commit message
-:emoji: commit message2
+:emoji: commit message
 ```
 
 |  Emoji |  Message | 
