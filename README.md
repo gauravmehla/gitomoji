@@ -1,6 +1,6 @@
 ![Imgur](http://i.imgur.com/TorstVg.jpg)
 
-## Commit Messages 👋
+# Commit Messages 👋
 
 Every commit is important.
 So let's celebrate each and every commit with a corresponding emoji! 😄
